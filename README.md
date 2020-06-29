@@ -6,7 +6,7 @@ Projeto Analítico de conclusão do curso de MBA Business Analytics e Big Data n
 
 Alguns resultados positivos obtidos com o projeto, como o reconhecimento facial de um grupo de pessoas sem máscara e o reconhecimento facial de pessoas de sexo diferentes usando a máscara. Outros resultados, podem ser visto no arquivo em *Deep Learning para o Reconhecimento do Uso de Mascara de Proteção Facial.pdf* disponibilizado nesse repositório. 
 
- ![](grupo de pessoas sem_mascara.jpg)
+ ![](grupo_de_pessoas_sem_mascara.jpg)
 
  ![](diversidade_mask.jpg)
 
