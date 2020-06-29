@@ -4,6 +4,11 @@ Projeto Analítico de conclusão do curso de MBA Business Analytics e Big Data n
 
  Em vista da atual pandemia mundial e as mudanças em ambientes sociais, este projeto propõe o uso de uma rede neural convolucional profunda, VGG19, para a detecção do uso de máscaras faciais protetoras para auxiliar na prevenção da propagação da COVID-19. 
 
+Alguns resultados positivos obtidos com o projeto, como o reconhecimento facial de um grupo de pessoas sem máscara e o reconhecimento facial de pessoas de sexo diferentes usando a máscara. Outros resultados, podem ser visto no arquivo em *Deep Learning para o Reconhecimento do Uso de Mascara de Proteção Facial.pdf* disponibilizado nesse repositório. 
+
+ ![](grupo de pessoas sem_mascara.jpg)
+
+ ![](diversidade_mask.jpg)
 
 ## Instalação
 
