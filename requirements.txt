@@ -1,7 +1,7 @@
 tensorflow==2.2.0
 opencv-python==4.2.0.34
 mtcnn==0.1.0
-numpy==1.18.4
+numpy==1.22.0
 sklearn==0.23.0
 matplotlib==3.2.1
 mlxtend==0.17.2
